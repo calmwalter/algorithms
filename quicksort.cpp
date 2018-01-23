@@ -1,3 +1,4 @@
+//this quick only support for the sequence that has no same number.
 #include<stdio.h>
 int partion(int *a,int lo,int hi){
     //the pivot number.
